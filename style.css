@@ -1,9 +1,13 @@
 .automar{
     margin-top: 130px;
 }
-.bg-darker{
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
-}
+
 .m-les{
     margin-top: -50px;
+}
+.bg-next{
+    background-color: #F4FAFD;
+}
+.btn-w{
+    width: 175px;
 }
